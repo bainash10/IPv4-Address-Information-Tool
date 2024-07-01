@@ -30,4 +30,4 @@ This Python application built with Tkinter calculates and displays detailed info
 2. Navigate to the directory containing `main.py`.
 3. Run the script using Python:
 
-Developed by [Nischal Baidar]
+Developed by [Nischal Baidar](https://github.com/bainash10)
